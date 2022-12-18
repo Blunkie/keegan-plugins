@@ -1,0 +1,66 @@
+[
+  {
+    "projectUrl": "storm-client.net",
+    "provider": "keegan",
+    "name": "Keegan Emotes",
+    "description": "Binds emotes to hotkeys",
+    "id": "keeganemotes-plugin",
+    "releases": [
+      {
+        "date": "2022-12-18",
+        "sha512sum": "A50AB461EDCA1AD216189E868A492080534DC7FA1B8E9A40E659560E363980AB71895218F801F0EA6A3479B42A152C862241919C22E4307CC157E932E9CE1652",
+        "version": "0.0.1",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-emotes-0.0.1.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "storm-client.net",
+    "provider": "keegan",
+    "name": "Keegan Fisher",
+    "description": "3t Fishing",
+    "id": "keeganfisher-plugin",
+    "releases": [
+      {
+        "date": "2022-12-18",
+        "sha512sum": "BFB6D6A1E256365B08E26E98CDB2B25760F629F76808610FDBD08C8A3D42E9BA9DF9734F50E4B20377ED48A94F5963F1824ECC53EFD4AC3208E6D88B5E05B93F",
+        "version": "0.0.3",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-fisher-0.0.3.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "storm-client.net",
+    "provider": "keegan",
+    "name": "Keegan Miner",
+    "description": "Mines Iron",
+    "id": "keeganminer-plugin",
+    "releases": [
+      {
+        "date": "2022-12-18",
+        "sha512sum": "71A9FEF828F970F61ED4379AA8ECD8B247C389FDEC4BDA0B55F18FEB696DBCD74CAD85AE1EBE264E2FDEFF0846FD13C97F0B6F490342F21E1CBD3E7E4D814579",
+        "version": "0.0.3",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-miner-0.0.3.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "storm-client.net",
+    "provider": "keegan",
+    "name": "Keegan Woodcut",
+    "description": "3t Woodcutting",
+    "id": "keeganwoodcut-plugin",
+    "releases": [
+      {
+        "date": "2022-12-18",
+        "sha512sum": "7B2D9B210EC8F41A40677A3923269B195D6D1EFFF60B418FC5A0CF1C44F2D03F8DFAE103882FA78E560D11740EE88D3811005706D1EA728AE2FF349CA1D7FB17",
+        "version": "0.0.2",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-woodcut-0.0.2.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  }
+]
