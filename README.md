@@ -18,6 +18,7 @@ For suggestions or features/bugs contact Keegan#2181 on discord
 # Configuration:
 	* keegan-emotes - Type the name of any emote  
 	* Fisher/Miner/Woodcutter - "Hop Worlds" toggle will world hop if another player is near by. (Must launch client with user/password arguments for this to work, otherwise it will logout and wait for you to manually log back in) 
+	* Debug - Will log some debugging information if enabled (Generally best to just leave it disabled)
 	
 # How to add:
 	Repository owner: KeeganKGB 	
