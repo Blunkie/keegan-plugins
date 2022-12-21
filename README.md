@@ -2,7 +2,9 @@
 My free to use Storm-Client plugins
 For suggestions or features/bugs contact Keegan#2181 on discord
 
-
+# EXTREMELY IMPORTANT NOTE: 
+I test my plugins using Packets/Invoke as the interaction method. They often interact too quickly for the "Mouse Events" interaction method. If you're having any issues, make sure you're using Packets or Invoke. 
+![Does not work with mouse events!](https://i.imgur.com/cp52COH.png)
 # Current Plugins:
 	* keegan-emotes - Allows binding of emotes to keys. 
 		(Can only bind to Shift/CTRL/Alt currently)
