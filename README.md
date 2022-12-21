@@ -4,10 +4,14 @@ For suggestions or features/bugs contact Keegan#2181 on discord
 
 
 # Current Plugins:
-	* keegan-emotes - Allows binding of emotes to keys. Can only bind to Shift/CTRL/Alt currently.   
-	* keegan-fisher - 3T fly fishes at barbarian village, ~80k xp/hr (Needs herb+swamp tar+pestle and mortar) 
-	* keegan-miner - 3T mines iron ore at the Ardougne Mine, ~65-70k xp/hr, higher with varrock armor (Needs herb+swamp tar+pestle and mortar) 
-	* keegan-woodcut - 3T woodcuts  (Needs herb+swamp tar+pestle and mortar) 
+	* keegan-emotes - Allows binding of emotes to keys. 
+		(Can only bind to Shift/CTRL/Alt currently)
+	* keegan-fisher - 3T fly fishes at barbarian village, or barbarian fishing near barbarian outpost
+		(Needs herb+swamp tar+pestle and mortar) 
+	* keegan-miner - 3T mines iron ore at the Ardougne Mine, ~65-70k xp/hr, higher with varrock armor 
+		(Needs herb+swamp tar+pestle and mortar) 
+	* keegan-woodcut - 3T woodcuts  
+		(Needs herb+swamp tar+pestle and mortar) 
   
 # STABILITY:
 	* keegan-emotes - It just does emotes... nothing to worry about here  
