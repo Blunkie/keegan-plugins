@@ -7,7 +7,7 @@
     "id": "keeganemotes-plugin",
     "releases": [
       {
-        "date": "2022-12-18",
+        "date": "2022-12-21",
         "sha512sum": "A50AB461EDCA1AD216189E868A492080534DC7FA1B8E9A40E659560E363980AB71895218F801F0EA6A3479B42A152C862241919C22E4307CC157E932E9CE1652",
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-emotes-0.0.1.jar",
@@ -35,6 +35,13 @@
         "version": "0.0.4",
         "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-fisher-0.0.4.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-21",
+        "sha512sum": "BE99192DB5CB1F4987322A30BCF5C406AEE9DCBBB688F7D07B5AD158FEAFAA5334FCC792038778F3E778415D10A2801219045086B693759B9989FCFD69B84B1B",
+        "version": "0.0.5",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-fisher-0.0.5.jar",
+        "requires": "^1.0.0"
       }
     ]
   },
@@ -53,7 +60,7 @@
         "requires": "^1.0.0"
       },
       {
-        "date": "2022-12-18",
+        "date": "2022-12-21",
         "sha512sum": "D03BECADFC730FE59D943256602F1B02AEE90357F0680FF94692CC45E68469AA581E545550F3816F44F8D190823F12EEFE676E5C30CBABE6C7A85C974DF4151C",
         "version": "0.0.4",
         "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-miner-0.0.4.jar",
@@ -69,8 +76,8 @@
     "id": "keeganwoodcut-plugin",
     "releases": [
       {
-        "date": "2022-12-18",
-        "sha512sum": "7B2D9B210EC8F41A40677A3923269B195D6D1EFFF60B418FC5A0CF1C44F2D03F8DFAE103882FA78E560D11740EE88D3811005706D1EA728AE2FF349CA1D7FB17",
+        "date": "2022-12-21",
+        "sha512sum": "3339D1CAB0FD383B50363269C69909C6E8EC6FDFD0F172984384D43B0B553E105D1219B4B48F149202572610D77B411A38590DA08F73E6D6FB0D209A78F56453",
         "version": "0.0.2",
         "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-woodcut-0.0.2.jar",
         "requires": "^1.0.0"
