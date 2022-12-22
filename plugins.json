@@ -59,9 +59,16 @@
       },
       {
         "date": "2022-12-21",
-        "sha512sum": "A4D24673D4A006A32513549C01D347F902DB9E59FA90A28E6861181CF793953DE3F7A05BD20CB3212B4813D553C6D0B2B18F6F8F0F13670950435DE150DB54B4",
+        "sha512sum": "4FDE6C9135AC3D0B52A9B09E2FFEC51D0AF25B88EE9C11C2930476AB9F773F00DEB10503A87CB66401AA2554B78F63FD2E8888EC639125695668D5F39BE67F55",
         "version": "0.0.8",
         "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-fisher-0.0.8.jar",
+        "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-21",
+        "sha512sum": "656255A05667D4D77501C7C4DC894A47FCF69CCCCF3E9F94327C7D2856BBEC72DD6EFCD6F657AE2E3D37AA9579A7C1207C0BFECDA457065EC69E28EFB49BFB92",
+        "version": "0.0.9",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-fisher-0.0.9.jar",
         "requires": "^1.0.0"
       }
     ]
