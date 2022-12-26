@@ -24,6 +24,8 @@ I test my plugins using Packets/Invoke as the interaction method. They often int
 	* keegan-fisher - Has only been tested for a few hours, would babysit for a bit personally
 	* keegan-miner - Should be very stable.
 	* keegan-woodcut - Has only been tested for a few hours at Barbarian Outpost willows, would babysit for a bit personally
+	* keegan-altar - I generally just run this to knock out 1-43 real quick, but haven't had any issues. It is **TECHNICALLY**
+			 possible to be PKed so I wouldn't bring like 10k dragon bones or anything, but it's unlikely. 
 	
 # Configuration:
 	* keegan-emotes - Type the name of any emote  
