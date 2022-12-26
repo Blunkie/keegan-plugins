@@ -7,7 +7,7 @@
     "id": "keeganemotes-plugin",
     "releases": [
       {
-        "date": "2022-12-21",
+        "date": "2022-12-26",
         "sha512sum": "A50AB461EDCA1AD216189E868A492080534DC7FA1B8E9A40E659560E363980AB71895218F801F0EA6A3479B42A152C862241919C22E4307CC157E932E9CE1652",
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-emotes-0.0.1.jar",
@@ -65,7 +65,7 @@
         "requires": "^1.0.0"
       },
       {
-        "date": "2022-12-21",
+        "date": "2022-12-26",
         "sha512sum": "656255A05667D4D77501C7C4DC894A47FCF69CCCCF3E9F94327C7D2856BBEC72DD6EFCD6F657AE2E3D37AA9579A7C1207C0BFECDA457065EC69E28EFB49BFB92",
         "version": "0.0.9",
         "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-fisher-0.0.9.jar",
@@ -88,8 +88,8 @@
         "requires": "^1.0.0"
       },
       {
-        "date": "2022-12-21",
-        "sha512sum": "D03BECADFC730FE59D943256602F1B02AEE90357F0680FF94692CC45E68469AA581E545550F3816F44F8D190823F12EEFE676E5C30CBABE6C7A85C974DF4151C",
+        "date": "2022-12-26",
+        "sha512sum": "A60C890FB86420492009D44B95B5097A5A5EDEFB0073D171118A8E0F22823C0DF6EFDD4DB7AB80C6E9EA7571185C6A8611D76FFEB4475B2858D65D916E6EB85C",
         "version": "0.0.4",
         "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-miner-0.0.4.jar",
         "requires": "^1.0.0"
@@ -104,10 +104,26 @@
     "id": "keeganwoodcut-plugin",
     "releases": [
       {
-        "date": "2022-12-21",
+        "date": "2022-12-26",
         "sha512sum": "3339D1CAB0FD383B50363269C69909C6E8EC6FDFD0F172984384D43B0B553E105D1219B4B48F149202572610D77B411A38590DA08F73E6D6FB0D209A78F56453",
         "version": "0.0.2",
         "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-woodcut-0.0.2.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "storm-client.net",
+    "provider": "keegan",
+    "name": "Keegan Altar",
+    "description": "Uses bones at chaos altar",
+    "id": "keeganaltar-plugin",
+    "releases": [
+      {
+        "date": "2022-12-26",
+        "sha512sum": "4A9623912E7091FF2E55A7608B5910CFBE4EC7641C7A75914C94739064392598DC79E240EFE6027841A25FFF6443814743BEE04101BB1BD32BEC3E1DF9A6718D",
+        "version": "0.0.1",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-altar-0.0.1.jar",
         "requires": "^1.0.0"
       }
     ]
