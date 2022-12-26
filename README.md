@@ -15,7 +15,7 @@ I test my plugins using Packets/Invoke as the interaction method. They often int
 		(Needs herb+swamp tar+pestle and mortar) 
 	* keegan-woodcut - 3T woodcuts  
 		(Needs herb+swamp tar+pestle and mortar) 
-	* keegan-altar - 1 Ticks any bones at chaos altar in the wilderness, and unnotes them at the NPC. 
+	* keegan-altar - 1 Ticks any bones at chaos altar in the wilderness, and unnotes them at the NPC. START IT AT THE ALTAR. 
 		Will log out and change worlds to avoid PKers. You need to launch the client with user/password arguments 
 		for the plugin to be able to log back in.
   
