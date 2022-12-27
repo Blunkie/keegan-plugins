@@ -77,6 +77,13 @@
         "version": "0.1.0",
         "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-fisher-0.1.0.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-26",
+        "sha512sum": "48B1DA80F08D123D395CE9A710A2521478FDCF4B9359E77F9A8BEF9A53A8D995E64D850D40A42E7E37B8A5D1E88CBE67C6F8F84408A89B3EA85D7655F26BF637",
+        "version": "0.1.1",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-fisher-0.1.1.jar",
+        "requires": "^1.0.0"
       }
     ]
   },
