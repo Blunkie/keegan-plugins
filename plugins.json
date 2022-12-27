@@ -70,6 +70,13 @@
         "version": "0.0.9",
         "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-fisher-0.0.9.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-26",
+        "sha512sum": "9A3696BD17873EED8A560F5C9A703BC54465173FA5EF509FB72AA587EB0BF616163ED081F3490762CD80AF27751565C35015FA01AB753561C926EA024278E91C",
+        "version": "0.1.0",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-fisher-0.1.0.jar",
+        "requires": "^1.0.0"
       }
     ]
   },
@@ -92,6 +99,13 @@
         "sha512sum": "A60C890FB86420492009D44B95B5097A5A5EDEFB0073D171118A8E0F22823C0DF6EFDD4DB7AB80C6E9EA7571185C6A8611D76FFEB4475B2858D65D916E6EB85C",
         "version": "0.0.4",
         "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-miner-0.0.4.jar",
+        "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-26",
+        "sha512sum": "B0A89D820A61C3FF20178AA2D4E6F54C13077DC35A643E817ABF86B8A58E3FC9A61E055DE37B1A1DAAA440F495D3566946CF160BDB5D05D941F44F50E0191CF6",
+        "version": "0.0.5",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-miner-0.0.5.jar",
         "requires": "^1.0.0"
       }
     ]
