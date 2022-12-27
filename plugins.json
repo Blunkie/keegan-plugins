@@ -148,5 +148,21 @@
         "requires": "^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl": "storm-client.net",
+    "provider": "keegan",
+    "name": "Keegan Prayer Flick",
+    "description": "1T Flicks Quck Prayers",
+    "id": "keeganprayerflick-plugin",
+    "releases": [
+      {
+        "date": "2022-12-26",
+        "sha512sum": "4680CE4BA1FE119197AF8BEA7F775982D0110C66840F34395D243CCFADBD1358FD8AEE06A5A298E663E6DEF496177A4512A0A9252C0277A29E7895482209F199",
+        "version": "0.0.1",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-prayer-flick-0.0.1.jar",
+        "requires": "^1.0.0"
+      }
+    ]
   }
 ]
