@@ -7,8 +7,7 @@ I test my plugins using Packets/Invoke as the interaction method. They often int
 
 ![Does not work with mouse events!](https://i.imgur.com/cp52COH.png)
 # Current Plugins:
-	* keegan-emotes - Allows binding of emotes to keys. 
-		(Can only bind to Shift/CTRL/Alt currently)
+	* keegan-prayer-flick - 1 tick flicks your preset Quick Prayer
 	* keegan-fisher - 3T fly fishes at barbarian village, or barbarian fishing near barbarian outpost
 		(Needs herb+swamp tar+pestle and mortar) 
 	* keegan-miner - 3T mines iron ore at the Ardougne Mine, ~65-70k xp/hr, higher with varrock armor 
@@ -18,6 +17,8 @@ I test my plugins using Packets/Invoke as the interaction method. They often int
 	* keegan-altar - 1 Ticks any bones at chaos altar in the wilderness, and unnotes them at the NPC. START IT AT THE ALTAR. 
 		Will log out and change worlds to avoid PKers. You need to launch the client with user/password arguments 
 		for the plugin to be able to log back in.
+	* keegan-emotes - Allows binding of emotes to keys. 
+		(Can only bind to Shift/CTRL/Alt currently)
   
 # STABILITY:
 	* keegan-emotes - It just does emotes... nothing to worry about here  
