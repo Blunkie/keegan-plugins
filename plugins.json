@@ -7,10 +7,10 @@
     "id": "keeganaltar-plugin",
     "releases": [
       {
-        "date": "2022-12-27",
-        "sha512sum": "782E00DC0CE25DD3922E9F8E7C88A88E13E6A17F67C015686BEA067A694B67639FD5E792BB96E0DD8555E7036A2AA403BF72942E4A0B7F1BEDEDE414BFFCE7F3",
-        "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-altar-0.0.2.jar",
+        "date": "2023-01-07",
+        "sha512sum": "5ECFB6E599CC07BDB925B73004C231E989068839E18C43EA9B0D5B066BB81726D453E3D98BA5DC89A4A8D2D653F3D359E0FC1818855132DDE2BE8CC9ED11FCA8",
+        "version": "0.0.3",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-private-plugins/master/keegan-altar-0.0.3.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -23,10 +23,10 @@
     "id": "keeganemotes-plugin",
     "releases": [
       {
-        "date": "2022-12-27",
+        "date": "2023-01-07",
         "sha512sum": "736C83C8504A6BC46509868F55D4DCFB31AB7FA4729EFDDF3DA3BFF0026A0574511CF0F035519F32997A83DE4B1ED73768D23A8D49F28E16E38584203FAEB52D",
         "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-emotes-0.0.2.jar",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-private-plugins/master/keegan-emotes-0.0.2.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -39,26 +39,10 @@
     "id": "keeganfisher-plugin",
     "releases": [
       {
-        "date": "2022-12-27",
+        "date": "2023-01-07",
         "sha512sum": "36DB74EA341C68B6093215798AAE22C7F5C68F4AEA736C11E514604C0528BF082D1CDFDEB4796CAE1D1BF6A7A97E45B52AB1A6855E265EC5E22F228610A9DF96",
         "version": "0.1.2",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-fisher-0.1.2.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "storm-client.net",
-    "provider": "keegan",
-    "name": "Keegan Miner",
-    "description": "Mines Iron",
-    "id": "keeganminer-plugin",
-    "releases": [
-      {
-        "date": "2022-12-27",
-        "sha512sum": "6AE5EE7EEA5A046B19CBC778FD4AE69CF9D809215B0A333369E754780A5A6D563AF0AC3BA45E4A9B8803ACA56E9FBF905E2EEC1A5C554FDD6359961EB1B79B16",
-        "version": "0.0.6",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-miner-0.0.6.jar",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-private-plugins/master/keegan-fisher-0.1.2.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -71,10 +55,10 @@
     "id": "keeganprayerflick-plugin",
     "releases": [
       {
-        "date": "2022-12-27",
+        "date": "2023-01-07",
         "sha512sum": "94BA27C665C0E599D7F92C7E6BC4BE0298FB33CA8CD455742FA4E4512E38BEE6A12CDD8FF0683D210D494845005B6E05B4EB8069A156D3E5FDC3E42ABE6598FD",
         "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-prayer-flick-0.0.2.jar",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-private-plugins/master/keegan-prayer-flick-0.0.2.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -87,10 +71,26 @@
     "id": "keeganwoodcut-plugin",
     "releases": [
       {
-        "date": "2022-12-27",
+        "date": "2023-01-07",
         "sha512sum": "BC64C82ABF64C2BAB05B6FE2CD7505A45C606385938F0851C05265610C592056CECED240162BE1B38AE7C8E9FE6BDC009F6B6646E8173E22C3B5ABCC2523455F",
         "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-woodcut-0.0.2.jar",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-private-plugins/master/keegan-woodcut-0.0.2.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "storm-client.net",
+    "provider": "keegan",
+    "name": "Keegan Miner",
+    "description": "Mines Iron",
+    "id": "keeganminer-plugin",
+    "releases": [
+      {
+        "date": "2023-01-07",
+        "sha512sum": "39412C011020BB1BC4E0B2ABF5702744EAAB383F6DD71FE9BDBE21EAE30D52C63E86EE453FF0CC412C48A1C7F5FE7E8B847A4D69698D3BDF1D924CFDA0AACD2B",
+        "version": "0.0.6",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-private-plugins/master/keegan-miner-0.0.6.jar",
         "requires": "^1.0.0"
       }
     ]
