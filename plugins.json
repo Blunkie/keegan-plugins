@@ -1,0 +1,98 @@
+[
+  {
+    "projectUrl": "storm-client.net",
+    "provider": "keegan",
+    "name": "Keegan Altar",
+    "description": "Uses bones at chaos altar",
+    "id": "keeganaltar-plugin",
+    "releases": [
+      {
+        "date": "2023-01-08",
+        "sha512sum": "5ECFB6E599CC07BDB925B73004C231E989068839E18C43EA9B0D5B066BB81726D453E3D98BA5DC89A4A8D2D653F3D359E0FC1818855132DDE2BE8CC9ED11FCA8",
+        "version": "0.0.3",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-altar-0.0.3.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "storm-client.net",
+    "provider": "keegan",
+    "name": "Keegan Emotes",
+    "description": "Binds emotes to hotkeys",
+    "id": "keeganemotes-plugin",
+    "releases": [
+      {
+        "date": "2023-01-08",
+        "sha512sum": "736C83C8504A6BC46509868F55D4DCFB31AB7FA4729EFDDF3DA3BFF0026A0574511CF0F035519F32997A83DE4B1ED73768D23A8D49F28E16E38584203FAEB52D",
+        "version": "0.0.2",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-emotes-0.0.2.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "storm-client.net",
+    "provider": "keegan",
+    "name": "Keegan Fisher",
+    "description": "3t Fishing",
+    "id": "keeganfisher-plugin",
+    "releases": [
+      {
+        "date": "2023-01-08",
+        "sha512sum": "E6D5ACAA62F25421C3239D8498D3891A8CBA4ABABAAC3E51682BE2EE574CE3635DC57738C40A3B47C2882541889B7B686B5EE02D14AE61ECF2C1B1BA249C011C",
+        "version": "0.1.3",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-fisher-0.1.3.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "storm-client.net",
+    "provider": "keegan",
+    "name": "Keegan Miner",
+    "description": "Mines Iron",
+    "id": "keeganminer-plugin",
+    "releases": [
+      {
+        "date": "2023-01-08",
+        "sha512sum": "39412C011020BB1BC4E0B2ABF5702744EAAB383F6DD71FE9BDBE21EAE30D52C63E86EE453FF0CC412C48A1C7F5FE7E8B847A4D69698D3BDF1D924CFDA0AACD2B",
+        "version": "0.0.6",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-miner-0.0.6.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "storm-client.net",
+    "provider": "keegan",
+    "name": "Keegan Prayer Flick",
+    "description": "1T Flicks Quck Prayers",
+    "id": "keeganprayerflick-plugin",
+    "releases": [
+      {
+        "date": "2023-01-08",
+        "sha512sum": "94BA27C665C0E599D7F92C7E6BC4BE0298FB33CA8CD455742FA4E4512E38BEE6A12CDD8FF0683D210D494845005B6E05B4EB8069A156D3E5FDC3E42ABE6598FD",
+        "version": "0.0.2",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-prayer-flick-0.0.2.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "storm-client.net",
+    "provider": "keegan",
+    "name": "Keegan Woodcut",
+    "description": "3t Woodcutting",
+    "id": "keeganwoodcut-plugin",
+    "releases": [
+      {
+        "date": "2023-01-08",
+        "sha512sum": "BC64C82ABF64C2BAB05B6FE2CD7505A45C606385938F0851C05265610C592056CECED240162BE1B38AE7C8E9FE6BDC009F6B6646E8173E22C3B5ABCC2523455F",
+        "version": "0.0.2",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-woodcut-0.0.2.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  }
+]
