@@ -15,8 +15,7 @@ I test my plugins using Packets/Invoke as the interaction method. They often int
 	* keegan-woodcut - 3T woodcuts  
 		(Needs herb+swamp tar+pestle and mortar) 
 	* keegan-altar - 1 Ticks any bones at chaos altar in the wilderness, and unnotes them at the NPC. START IT AT THE ALTAR. 
-		Will log out and change worlds to avoid PKers. You need to launch the client with user/password arguments 
-		for the plugin to be able to log back in.
+		Will log out and change worlds to avoid PKers. 
 	* keegan-alcher - Simple auto-alcher. It will low alch or high alch based on your current magic level.  
 	* keegan-emotes - Allows binding of emotes to keys. 
 		(Can only bind to Shift/CTRL/Alt currently)
@@ -31,10 +30,11 @@ I test my plugins using Packets/Invoke as the interaction method. They often int
 	* keegan-alcher - Very stable. It's just a simple auto-alcher.   
 	
 # Configuration:
+	* Username/Password - Username/Passwords in the config will be used to log back in when 6hr logged or world hopping
+	* Debug - Will log some debugging information if enabled (Generally best to just leave it disabled)
 	* keegan-emotes - Type the name of any emote  
 	* keegan-alcher - Put the exact name of the item you'd like to alch in the config
-	* Fisher/Miner/Woodcutter - "Hop Worlds" toggle will world hop if another player is near by. (Must launch client with user/password arguments for this to work, otherwise it will logout and wait for you to manually log back in) 
-	* Debug - Will log some debugging information if enabled (Generally best to just leave it disabled)
+	* Fisher/Miner/Woodcutter - "Hop Worlds" toggle will world hop if another player is near by. 
 	
 # How to add:
 	Repository owner: KeeganKGB 	
