@@ -72,9 +72,9 @@
     "releases": [
       {
         "date": "2023-01-13",
-        "sha512sum": "80F6E83BDA5A5FBB20CED0A2FF8EE463DEEFD66BAC8A43094EBE0731032C34F698BBC5F765641E2AD36736C88A057C86A78E0DEB8C1820711FD10D5533066C5B",
-        "version": "0.0.8",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-miner-0.0.8.jar",
+        "sha512sum": "0D7A949BCC585BD65FA89051588B9D643DDDF5B9CF01AAF563DB1F283BA7B48309796C531575BB332AF722B39A4F2D49EA823B725DE2002F7E6A7E98E22CAE29",
+        "version": "0.0.9",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-miner-0.0.9.jar",
         "requires": "^1.0.0"
       }
     ]
