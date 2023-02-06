@@ -5,6 +5,9 @@ For suggestions or features/bugs contact Keegan#2181 on discord
 # EXTREMELY IMPORTANT NOTE: 
 I test my plugins using Packets/Invoke as the interaction method. They often interact too quickly for the "Mouse Events" interaction method. If you're having any issues, make sure you're using Packets or Invoke. 
 
+
+# WHEN I SAY HERB IT MEANS GUAM/MARRENTIL/TARROMIN/HARRALANDER
+
 ![Does not work with mouse events!](https://i.imgur.com/cp52COH.png)
 # Current Plugins:
 	* keegan-prayer-flick - 1 tick flicks your preset Quick Prayer
