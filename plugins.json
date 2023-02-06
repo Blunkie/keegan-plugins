@@ -7,10 +7,10 @@
     "id": "keeganalcher-plugin",
     "releases": [
       {
-        "date": "2023-01-13",
+        "date": "2023-02-05",
         "sha512sum": "227593F184F32C0725B33F9BA03687F64E4A33C562DC597B64C63B32C47C2004FE115DB46D026D4D89C9C944723C20B46F708EACE3E9951ED0C0406C36B4FAA7",
         "version": "0.0.1",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-alcher-0.0.1.jar",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/main/release/keegan-alcher-0.0.1.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -23,10 +23,10 @@
     "id": "keeganaltar-plugin",
     "releases": [
       {
-        "date": "2023-01-13",
-        "sha512sum": "FA05FA4A7E5CC7DDCA0AA7D960BACF72146B2BE15B1E720A9DA07C9BD674E2E9631C1431FE04062001AD62ECDBC1D4CFC3F97F2484D3A00ACC16C86EC8111223",
+        "date": "2023-02-05",
+        "sha512sum": "0C0670517DC09D842EFC5F6B9A76A13CCC5BC829FE3A6A817B05C5DD086534C9E78A6FC5D893B6543D77226791A988FF526E4EB8221CC29B3E963A570612827E",
         "version": "0.0.4",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-altar-0.0.4.jar",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/main/release/keegan-altar-0.0.4.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -39,10 +39,10 @@
     "id": "keeganemotes-plugin",
     "releases": [
       {
-        "date": "2023-01-13",
+        "date": "2023-02-05",
         "sha512sum": "736C83C8504A6BC46509868F55D4DCFB31AB7FA4729EFDDF3DA3BFF0026A0574511CF0F035519F32997A83DE4B1ED73768D23A8D49F28E16E38584203FAEB52D",
         "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-emotes-0.0.2.jar",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/main/release/keegan-emotes-0.0.2.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -55,10 +55,10 @@
     "id": "keeganfisher-plugin",
     "releases": [
       {
-        "date": "2023-01-13",
-        "sha512sum": "A9A9614AA4F285F9430566DFC3031C643C4339280E83C2F022EFF49C135D5AFA4B65CEBF0354458F9321D0229016834254A49957C5152FB9583643940553E565",
-        "version": "0.1.4",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-fisher-0.1.4.jar",
+        "date": "2023-02-05",
+        "sha512sum": "C17FE6A9A3E8AB08C3B1447C338D8E8B4934E082D2F68958450A0139D3190E2C5A3E05B72284939187701E227F9F4108677399416BCD0A61F9E7FD531F36C3DA",
+        "version": "0.1.5",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/main/release/keegan-fisher-0.1.5.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -71,10 +71,10 @@
     "id": "keeganminer-plugin",
     "releases": [
       {
-        "date": "2023-01-13",
-        "sha512sum": "0D7A949BCC585BD65FA89051588B9D643DDDF5B9CF01AAF563DB1F283BA7B48309796C531575BB332AF722B39A4F2D49EA823B725DE2002F7E6A7E98E22CAE29",
-        "version": "0.0.9",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-miner-0.0.9.jar",
+        "date": "2023-02-05",
+        "sha512sum": "8331C6F37DFF19177C14863C525253E8C2FCD2026A5D6D2EF7696D279101997D06B6A3B3280BC4ACE0866F2C858BE9D3DEBA03870639783FAB75264BD379F6C9",
+        "version": "0.0.10",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/main/release/keegan-miner-0.0.10.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -87,10 +87,10 @@
     "id": "keeganprayerflick-plugin",
     "releases": [
       {
-        "date": "2023-01-13",
-        "sha512sum": "94BA27C665C0E599D7F92C7E6BC4BE0298FB33CA8CD455742FA4E4512E38BEE6A12CDD8FF0683D210D494845005B6E05B4EB8069A156D3E5FDC3E42ABE6598FD",
+        "date": "2023-02-05",
+        "sha512sum": "587C00F462A5ED7C66850E296044E0401FEBAAFD746234322C6994CE3A77877FB2349C1599C552BD51D3FDD8C3B71BDBDD22E43D8E0C6A63C2691B8B1C06A05C",
         "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-prayer-flick-0.0.2.jar",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/main/release/keegan-prayer-flick-0.0.2.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -103,10 +103,10 @@
     "id": "keeganwoodcut-plugin",
     "releases": [
       {
-        "date": "2023-01-13",
-        "sha512sum": "E205FE84471F8F76E515F5263F3285816C6080C8599948ABCFE1205393A3C50D988E011220F208822737342C7774A7ACB9CCB123DF38267E6E1D3482F67596F9",
+        "date": "2023-02-05",
+        "sha512sum": "983E908571E14D994B216596F2797941D92E181403F6AFEBF3209546EEB6D9D003412CA90D5909CF7D0EECA09AFF86FD1C6D9B23979210F67143DDA50FF82199",
         "version": "0.0.3",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/master/keegan-woodcut-0.0.3.jar",
+        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/main/release/keegan-woodcut-0.0.3.jar",
         "requires": "^1.0.0"
       }
     ]
